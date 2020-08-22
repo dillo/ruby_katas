@@ -1,0 +1,7 @@
+require_relative "my_face/like"
+require_relative "my_face/no"
+require_relative "my_face/one"
+require_relative "my_face/two"
+require_relative "my_face/few"
+require_relative "my_face/many"
+require_relative "my_face/likes_factory"
